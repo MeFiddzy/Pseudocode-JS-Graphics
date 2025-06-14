@@ -1,0 +1,85 @@
+{
+  "canvas": {
+    "height": 200,
+    "width": 200
+  },
+  "lines": [
+    {
+      "startPos": {
+        "x": 10,
+        "y": 20
+      },
+      "endPos": {
+        "x": 20,
+        "y": 50
+      },
+      "line": {
+        "thick": 10,
+        "color": "red"
+      }
+    },
+    {
+      "startPos": {
+        "x": 0,
+        "y": 0
+      },
+      "endPos": {
+        "x": 200,
+        "y": 150
+      },
+      "line": {
+        "thick": 10,
+        "color": "red"
+      }
+    }
+  ],
+  "circles": [
+    {
+      "midPos": {
+        "x": 10,
+        "y": 20
+      },
+      "rad": 10,
+      "line": {
+        "thick": 10,
+        "color": "red"
+      }
+    }
+  ],
+  "rects": [
+    {
+      "startPos": {
+        "x": 10,
+        "y": 20
+      },
+      "endPos": {
+        "x": 120,
+        "y": 30
+      },
+      "line": {
+        "thick": 10,
+        "color": "red"
+      },
+      "fill": {
+        "color": "blue"
+      }
+    },
+    {
+      "startPos": {
+        "x": 10,
+        "y": 20
+      },
+      "endPos": {
+        "x": 120,
+        "y": 30
+      },
+      "line": {
+        "thick": 10,
+        "color": "red"
+      },
+      "fill": {
+        "color": null
+      }
+    }
+  ]
+}
